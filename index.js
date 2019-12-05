@@ -12,9 +12,8 @@ const quest = rl.question
 
 
 */
-t('Hello World!').then(function(){
-    console.log('Typing finished');
-});
+
+
 //variables
         //characters
             let postava1 = 'Mystery Man';
